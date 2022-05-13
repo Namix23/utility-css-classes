@@ -16,6 +16,11 @@ h3 {
   color: #231d3c;
 }
 
+a.btn-warning {
+  display: flex;
+  justify-content: center;
+}
+
 .logo {
   display: block;
   margin: 30px auto;
