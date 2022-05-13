@@ -30,3 +30,7 @@ a.btn-warning {
 .text-decoration-none {
   color: black;
 }
+
+.shadow-xl {
+  box-shadow: 4px 6px 15px black;
+}
